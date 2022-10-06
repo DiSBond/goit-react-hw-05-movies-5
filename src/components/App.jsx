@@ -18,6 +18,7 @@ const StyledLink = styled(NavLink)`
   }
 `;
 
+// sad
 const MovieDetails = lazy(() => import('../components/MovieDetails'));
 
 export const App = () => {
